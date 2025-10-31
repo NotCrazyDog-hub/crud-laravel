@@ -9,7 +9,7 @@
     <br>
     <input type="text" name="phone" placeholder="Insira seu telefone">
     <br>
-    <input type="hidden" name="status" value="1">
+    <input type="hidden" name="status" value="0">
     <input type="checkbox" name="status" value="1">
     <br>
     <input type="submit" value="Cadastrar">
